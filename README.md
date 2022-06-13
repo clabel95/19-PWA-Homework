@@ -1,9 +1,9 @@
 # PWA Text Editor
 
-[Deployed Application] (https://text--editor--pwa.herokuapp.com/)
+[Deployed Application](https://text--editor--pwa.herokuapp.com/)
 
 
-[Repository] (https://github.com/clabel95/PWA-Text-Editor)
+[Repository](https://github.com/clabel95/PWA-Text-Editor)
 
 ## User Story
 
